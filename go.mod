@@ -1,4 +1,4 @@
-module golang.org/esqimo/crypto
+module github.com/esqimo/crypto
 
 go 1.17
 
